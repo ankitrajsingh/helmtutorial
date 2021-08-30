@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  githubSampleChart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-31T00:21:52.118414+05:30"
+    description: Demo for pushing chart into github
+    digest: e2b2015cee443bea54ee9888b7e56467ff1837b18170e2e4363816f73598081a
+    name: githubSampleChart
+    type: application
+    urls:
+    - githubSampleChart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-31T00:21:52.116011+05:30"
